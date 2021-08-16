@@ -1,1 +1,1 @@
-# machine-learning prctice
+# machine-learning practice
