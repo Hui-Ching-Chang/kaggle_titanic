@@ -1,1 +1,1 @@
-# machine-learning practice
+# kaggle_titanic
